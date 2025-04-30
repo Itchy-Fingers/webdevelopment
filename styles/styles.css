@@ -42,13 +42,13 @@ h1 {
 
 .page a{
     text-decoration: none;
-    color: #007BFF;
+    color: #333;
     margin-bottom: 10px;
     font-size: 20px;
 }
 
 .page a:hover{
-    color: #007BFF;
+    color: #333;
     text-decoration: underline;
 }
 
